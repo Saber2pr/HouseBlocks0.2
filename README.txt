@@ -2,4 +2,4 @@
 an cocos2d-cpp application 
 Notice:
   it's free;
-  it maybe have some images(it maybe belong to you) which has no permission( of you), I will delete it soon.
+  it maybe have some items(it maybe belong to you) which has no permission( of you), I will delete it soon.
