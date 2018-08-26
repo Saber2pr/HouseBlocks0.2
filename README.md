@@ -1,6 +1,6 @@
 # XM_AK12
 * 基于cocos2d-cpp的工程
-* 从这个项目中可以学习到:
+* 从这个项目中会学习到:
 1. 环境搭建 [win7下搭建cocos2d-x3.17开发环境](https://blog.csdn.net/u011607490/article/details/80985409)
 2. 场景创建的基本方法 [创建场景的一般步骤](https://blog.csdn.net/u011607490/article/details/81072862)
 3. 背景音乐播放和开关
