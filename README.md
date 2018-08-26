@@ -14,8 +14,8 @@
 11. 角色图片对运动状态响应
 12. ui按钮事件
 13. 工程打包apk [打包生成apk、横竖屏、桌面图标、app名称修改和异常处理](https://blog.csdn.net/u011607490/article/details/81266629)
-14. 其他 [访问我的CSDN](https://blog.csdn.net/u011607490/article/category/7791320)
-
+14. [下载安卓版](https://pan.baidu.com/s/1QjzlwI6OPbyidz70F-Sfzw)
+15. 其他 [访问我的CSDN](https://blog.csdn.net/u011607490/article/category/7791320)
 ## 联系我
 * saber2pr@gmail.com
 * 1029985799@qq.com
