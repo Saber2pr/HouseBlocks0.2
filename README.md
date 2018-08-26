@@ -1,4 +1,5 @@
 # XM_JUMP
+![loadingImage...](https://github.com/Saber2pr/MyWeb/blob/master/resource/XM_JUMP.jpg)
   > [Download For Android](https://pan.baidu.com/s/1QjzlwI6OPbyidz70F-Sfzw "下载安卓版试玩（密码:30wh）")
 * 基于cocos2d-cpp的工程
 * 从这个项目中会学习到:
