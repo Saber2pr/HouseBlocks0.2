@@ -1,4 +1,4 @@
-# XM_AK12
+# XM_JUMP
 * 基于cocos2d-cpp的工程
 * 从这个项目中会学习到:
 1. 环境搭建 [win7下搭建cocos2d-x3.17开发环境](https://blog.csdn.net/u011607490/article/details/80985409)
