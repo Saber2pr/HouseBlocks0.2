@@ -1,6 +1,6 @@
 # XM_JUMP
 ![loadingImage...](https://github.com/Saber2pr/MyWeb/blob/master/resource/XM_JUMP.jpg)
-  > [Download For Android[password]:30wh]](https://pan.baidu.com/s/1QjzlwI6OPbyidz70F-Sfzw "下载安卓版试玩（密码:30wh）")
+  > [Download For Android[password:30wh]](https://pan.baidu.com/s/1QjzlwI6OPbyidz70F-Sfzw "下载安卓版试玩（密码:30wh）")
 * 基于cocos2d-cpp的工程
 * 从这个项目中会学习到:
 1. 环境搭建 [win7下搭建cocos2d-x3.17开发环境](https://blog.csdn.net/u011607490/article/details/80985409)
